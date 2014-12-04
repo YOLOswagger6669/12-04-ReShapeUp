@@ -6,7 +6,6 @@ public class ShapeUp {
         Point p1 = new Point();
         p1.setX(2);
         p1.setY(2);
-
         Point p2 = new Point();
         p2.setX(8);
         p2.setY(8);
